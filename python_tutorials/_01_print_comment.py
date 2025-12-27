@@ -79,5 +79,6 @@ print("Adım: ", name," Soyisim: ",surname)
 # 2.YOL (%s:string  %d:decimal(tam sayılar)  %f:float(virgüllü sayılar))
 print("Adım:  %s  Soyisim:  %s "%(name,surname))
 
+
 # 3.YOL
 print(f"Adım:  {name}, Soyisim:  {surname}")
