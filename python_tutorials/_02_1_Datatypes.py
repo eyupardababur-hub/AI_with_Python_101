@@ -24,6 +24,8 @@ string2 = "Merhabalar Güzel insanlar-2"
 print(f"string1:  {string1}, string2:  {string2}")
 print(type(string1)) # string1
 
+
+
 ################################################################################
 ##### BOOLEAN (TRUE/FALSE) #####################################################
 # Boolean (True, False)
