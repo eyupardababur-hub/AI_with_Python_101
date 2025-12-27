@@ -144,6 +144,8 @@ print("Büyük Eşit mi? ", (number1>=number2))
 print("Küçük mü?  ", (number1<number2))
 print("Küçük Eşit mü?  ", (number1<=number2))
 
+
+
 # && = VE
 # || = VEYA
 # !  = Değil
